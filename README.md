@@ -45,20 +45,21 @@ GenAI-Hybrid-Log-Classification-System/
    ```bash
    pip install -r requirements.txt
    ```
-   
-2. **Insert Your Groq token in .env file**
-   ---
-   Type:
-   ---
-   GROQ_API_KEY = "<Your_Groq_Api_Key>"
-   ---
 
-4. **Start Server**
+2. **Setup Environment Variables**
+   
+   Create a `.env` file in the project root and add your Groq API key:
+
+   ```
+   GROQ_API_KEY="<Your_Api_Key>"
+   ```
+
+3. **Start Server**
    ```bash
    python server.py
    ```
 
-5. **Test API**
+4. **Test API**
    Send a POST request to `http://localhost:8000/classify` with:
    ```json
    {
@@ -83,21 +84,12 @@ GenAI-Hybrid-Log-Classification-System/
 
 ---
 
-## 🤝 Contributing
+## 📜 License
 
-Contributions are welcome!  
-- Fork the repo  
-- Create a new branch  
-- Make changes  
-- Submit a pull request  
+This project is under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Connect with Me
+## 🙌 Acknowledgements
 
-- **GitHub:** [Abhisek-Tiwari](https://github.com/Abhisek-Tiwari)
-- **LinkedIn:** [abhisek-tiwari-a06315262](https://www.linkedin.com/in/abhisek-tiwari-a06315262/)
-
----
-
-⭐️ If you like this project, don't forget to leave a star!
+Inspired by operational log analysis practices and hybrid AI pipelines for enterprise monitoring systems.
