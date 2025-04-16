@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+transformers
+torch
+pydantic
+regex
+openai
+scikit-learn
+python-dotenv
+requests
+numpy
+jupyter
+matplotlib
+pandas
