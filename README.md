@@ -47,16 +47,18 @@ GenAI-Hybrid-Log-Classification-System/
    ```
    
 2. **Insert Your Groq token in .env file**
+   ---
    Type:
+   ---
    GROQ_API_KEY = "<Your_Groq_Api_Key>"
-   
+   ---
 
-3. **Start Server**
+4. **Start Server**
    ```bash
    python server.py
    ```
 
-4. **Test API**
+5. **Test API**
    Send a POST request to `http://localhost:8000/classify` with:
    ```json
    {
