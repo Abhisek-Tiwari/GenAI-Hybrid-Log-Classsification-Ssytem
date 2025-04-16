@@ -48,7 +48,7 @@ GenAI-Hybrid-Log-Classification-System/
 
 2. **Setup Environment Variables**
    
-   Create a `.env` file in the project root and add your Groq API key:
+      Add your Groq API key in .env file present in the root:
 
    ```
    GROQ_API_KEY="<Your_Api_Key>"
