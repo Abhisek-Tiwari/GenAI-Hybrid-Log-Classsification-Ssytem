@@ -76,12 +76,21 @@ GenAI-Hybrid-Log-Classification-System/
 
 ---
 
-## 📜 License
+## 🤝 Contributing
 
-This project is under the [MIT License](LICENSE).
+Contributions are welcome!  
+- Fork the repo  
+- Create a new branch  
+- Make changes  
+- Submit a pull request  
 
 ---
 
-## 🙌 Acknowledgements
+## 📬 Connect with Me
 
-Inspired by operational log analysis practices and hybrid AI pipelines for enterprise monitoring systems.
+- **GitHub:** [Abhisek-Tiwari](https://github.com/Abhisek-Tiwari)
+- **LinkedIn:** [abhisek-tiwari-a06315262](https://www.linkedin.com/in/abhisek-tiwari-a06315262/)
+
+---
+
+⭐️ If you like this project, don't forget to leave a star!
